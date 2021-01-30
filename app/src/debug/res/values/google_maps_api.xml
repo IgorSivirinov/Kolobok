@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=75:59:99:CD:C0:D4:9D:01:C4:4F:24:F0:08:FD:54:87:A3:6F:71:49%3Bcom.example.lightfuture.ui
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.lightfuture.ui
+
+    SHA-1 certificate fingerprint:
+    75:59:99:CD:C0:D4:9D:01:C4:4F:24:F0:08:FD:54:87:A3:6F:71:49
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDd1oaCDKZxqb1YUjEGQh1y3R3n1wIXc7M</string>
+</resources>
